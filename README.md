@@ -4,6 +4,8 @@
 # simple-password-generator
 - A Simple Password JavaScript Generator using BootStrap
 
+# Online demo here : https://elreviae.github.io/simple-password-generator/
+
 # ![Screenshot](screenshots/simple-password-generator.png)
 
 
